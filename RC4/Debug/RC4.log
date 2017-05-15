@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\library\学习\现代密码学\rc4\rc4\rc4.h(140): warning C4018: “<”: 有符号/无符号不匹配
+d:\library\学习\现代密码学\rc4\rc4\rc4.h(147): warning C4018: “<”: 有符号/无符号不匹配
+d:\library\学习\现代密码学\rc4\rc4\rc4.h(155): warning C4018: “<”: 有符号/无符号不匹配
+d:\library\学习\现代密码学\rc4\rc4\rc4.h(166): warning C4018: “<”: 有符号/无符号不匹配
+d:\library\学习\现代密码学\rc4\rc4\rc4.h(177): warning C4018: “<”: 有符号/无符号不匹配
+  RC4.vcxproj -> D:\Library\学习\现代密码学\RC4\Debug\RC4.exe
+  RC4.vcxproj -> D:\Library\学习\现代密码学\RC4\Debug\RC4.pdb (Partial PDB)
